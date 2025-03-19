@@ -9,5 +9,6 @@ html.ios, html.md {
     --core-header-toolbar-background: var(--primary);
     --ion-item-background: var(--graphicdesignpassion);
     --ion-item-border-color: yellow;
-    --ion-tab-bar-color: red;
+    --ion-toolbar-color: red;
+    --ion-toolbar-background: orange;
 }
