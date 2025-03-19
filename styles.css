@@ -15,5 +15,5 @@ html.md {
 }
 
 ion-card {
-    --button-background: rgb(150 155 235 / 70%);
+    background: rgb(150 155 235 / 70%);
 }
