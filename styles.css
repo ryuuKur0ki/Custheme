@@ -10,5 +10,5 @@ html.ios, html.md {
     --ion-item-background: var(--graphicdesignpassion);
     --ion-item-border-color: yellow;
     --ion-toolbar-color: red;
-    --ion-toolbar-background: orange;
+    --ion-backdrop-color: orange;
 }
