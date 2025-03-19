@@ -1,7 +1,12 @@
+:root {
+    --primary: #0274be;
+}
+
+
 html.ios {
-    --core-header-toolbar-background: red;
+    --core-header-toolbar-background: var(--primary);
 }
 
 h2 {
-    color: red;
+    color: var(--primary);
 }
