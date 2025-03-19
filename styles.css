@@ -1,10 +1,12 @@
 :root {
     --primary: #0274be;
+    --graphicdesignpassion: #23d620;
 }
 
 
 html.ios {
     --core-header-toolbar-background: var(--primary);
+    --ion-background-color: var(--graphicdesignpassion);
 }
 
 h2 {
