@@ -14,9 +14,6 @@ Some elements are based on the app mode (light/dark)
 --ion-background-color: background of various components, mainly text
 --core-header-toolbar-background: di ko to mahanap im cringe
 
-[_nghost-ng-c2436150397] {
+core-courses-course-list-item {
     this is for the course buttons
-    [] selects all
-    
-    Note: in actual css used in app, it's declared multiple times for modifying specific elements
 }
