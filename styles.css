@@ -29,12 +29,11 @@ html.ios, html.md {
     --ion-tab-bar-color: orange;
     --ion-tab-bar-color-selected: darkorange;
     */
-    --ion-tab-bar-background: rgb(255, 0, 204);
 }
 
-/* The color of buttons: at the footer (navigation bar elements), dashboard choice (choice between home/dash) 
+/* The color of buttons: at the footer (navigation bar elements), dashboard choice (choice between home/dash) */
 ion-tab-bar {
-    background: plum !important;  
+    background: plum !important;  /* No selected color specifically, when selected it just shows the background color instead lmao */
     color: var(--graphicdesignpassion);    
 }
 
@@ -42,7 +41,6 @@ ion-tab-button {
     color: var(--primary);
     background: var(--secondary);
 }
-*/
 
 /* variables from light theme css
 
