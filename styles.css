@@ -5,10 +5,25 @@
 }
 
 html.ios, html.md {
-    --ion-background-color: hotpink;
+    /* Header Color when Logging In*/
     --core-header-toolbar-background: var(--primary);
+ 
+    /* Main background color, anything without an explicit color will take this color */
+    --ion-background-color: hotpink;
+    
+    /* Background color for select components */
     --ion-item-background: var(--graphicdesignpassion);
+
+    /* Outline color for select components */
     --ion-item-border-color: yellow;
+
+    /* Color for fade-in when loading/transitioning between pages that need to load */
+    --ion-backdrop-color: black;
+
+    /* When screen is cut-off by weird design choices, is color the area not part of the application takes */
     --ion-toolbar-color: red;
-    --ion-backdrop-color: orange;
+
+    /* Color of buttons at footer/navigation bar elements */
+    --ion-tab-bar-color: orange;
+    --ion-tab-bar-color-selected: darkorange;
 }
