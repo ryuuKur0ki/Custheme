@@ -49,6 +49,24 @@ ion-tab-button {
     background: var(--secondary);
 }
 
+ion-header {
+    /* Modifies... the header containing page name and profile link */
+}
+
+ion-label {
+    /* Self-explanatory */
+}
+
+ion-searchbar {
+    /* Self-explanatory */
+}
+
+/*
+Notes to self:
+- I don't think modifying component appearance is practical through code
+- should probably get a compiler for angular/ionic stuff?? idk
+*/
+
 /* variables from light theme css
 
     --black: #000000;
