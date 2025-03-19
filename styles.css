@@ -1,9 +1,8 @@
-:root {
+:root, :root.dark {
     --primary: #0274be;
     --secondary: #0f47ad;
     --graphicdesignpassion: #23d620;
 }
-
 
 html.ios {
     --core-header-toolbar-background: var(--primary);

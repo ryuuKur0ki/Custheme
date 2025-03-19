@@ -1,0 +1,13 @@
+List of tracked page elements/CSS variables used in mobile app.
+
+Notes:
+Some elements are based on the app mode (light/dark)
+
+[CSS Variables]
+--primary: Affects login header color, most UI elements such as sliders
+--secondary: Affects some background elements, dashboard pull tab
+
+
+
+[Page Elements]
+--core-header-toolbar-background: Background color of 
