@@ -7,7 +7,12 @@
 
 html.ios {
     --core-header-toolbar-background: var(--primary);
-    --ion-background-color: var(--graphicdesignpassion);
+    /* --ion-background-color: var(--graphicdesignpassion); */
+}
+
+html.md {
+    --ion-text-color: rgb(208, 38, 66);
+    --core-header-toolbar-background: var(--graphicdesignpassion);
 }
 
 h2 {
