@@ -2,6 +2,13 @@
     --primary: #0274be;
     --secondary: #0f47ad;
     --graphicdesignpassion: #23d620;
+    --black: #000000;
+    --dark: #282828;
+
+    --core-bottom-tabs-background: var(--white);
+    --core-bottom-tabs-color: var(--dark);
+    --core-bottom-tabs-color-selected: var(--primary);
+    --core-bottom-tabs-background-selected: transparent;
 }
 
 html.ios, html.md {
@@ -230,6 +237,7 @@ ion-tab-button {
     --ion-card-border-color: var(--stroke);
     --text-hightlight-background-color: #a2cff8;
     --ion-placeholder-color: var(--subdued-text-color);
+
     --core-bottom-tabs-background: var(--white);
     --core-bottom-tabs-color: var(--dark);
     --core-bottom-tabs-color-selected: var(--primary);
