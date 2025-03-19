@@ -23,7 +23,18 @@ html.ios, html.md {
     /* When screen is cut-off by weird design choices, is color the area not part of the application takes */
     --ion-toolbar-color: red;
 
-    /* Color of buttons at footer/navigation bar elements */
+    /*
+    NOT the color of buttons at footer/navigation bar elements 
+    
     --ion-tab-bar-color: orange;
     --ion-tab-bar-color-selected: darkorange;
+    */
+}
+ion-tab-bar {
+    color: var(--graphicdesignpassion);    
+}
+
+ion-tab-button {
+    color: var(--primary);
+    background: var(--secondary);
 }
