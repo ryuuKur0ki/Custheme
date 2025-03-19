@@ -17,3 +17,5 @@ Some elements are based on the app mode (light/dark)
 core-courses-course-list-item {
     this is for the course buttons
 }
+
+fxxx it just read: https://ionicframework.com/docs/theming/themes

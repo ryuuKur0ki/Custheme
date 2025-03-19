@@ -7,10 +7,7 @@
 html.ios, html.md {
     --ion-background-color: hotpink;
     --core-header-toolbar-background: var(--primary);
-    --ion-text-color: rgb(208, 38, 66);
-    --ion-item-background: green;
-}
-
-ion-card {
-    background: rgb(150 155 235 / 70%);
+    --ion-item-background: var(--graphicdesignpassion);
+    --ion-item-border-color: yellow;
+    --ion-tab-bar-color: red;
 }
